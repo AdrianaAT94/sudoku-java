@@ -1,2 +1,2 @@
 # sudoku-java
-Proyecto sudoku java
+Proyecto sudoku java.
